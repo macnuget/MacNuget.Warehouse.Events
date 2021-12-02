@@ -3,12 +3,16 @@
 ## Our iternal Events
 ### NewRefillEvent
 An internal event to update (+) the quantity of the product
- 
+
+## External Event
 ### NewProductEvent
-An internal event to add a new product to the product directory
+An external event to add a new product to the product directory
 
 ### NewDeleteProductEvent
-An internal event to delete (set true/false the availabity of a product)
+An external event to delete (set true/false the availabity of a product)
 
 ### NewUpdateProductEvent
-An internal event to update a product (not the quantity (see NewRefillEvent for update quantity))
+An external event to update a product (not the quantity (see NewRefillEvent for update quantity))
+
+### NewOrderEvent
+An external event to add a new order to remove the quantity of the product
