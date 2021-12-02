@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andrea Zanetti\\OneDrive\\csharp\\MacNuget.Warehouse\\MacNuget.Warehouse\\MacNuget.Warehouse.Events\\MacNuget.Warehouse.Events.csproj",
+      "projectUniqueName": "C:\\Users\\Andrea Zanetti\\OneDrive\\csharp\\MacNuget.Warehouse\\MacNuget.Warehouse.Events\\MacNuget.Warehouse.Events.csproj",
       "projectName": "MacNuget.Warehouse.Events",
-      "projectPath": "C:\\Users\\Andrea Zanetti\\OneDrive\\csharp\\MacNuget.Warehouse\\MacNuget.Warehouse\\MacNuget.Warehouse.Events\\MacNuget.Warehouse.Events.csproj",
+      "projectPath": "C:\\Users\\Andrea Zanetti\\OneDrive\\csharp\\MacNuget.Warehouse\\MacNuget.Warehouse.Events\\MacNuget.Warehouse.Events.csproj",
       "packagesPath": "C:\\Users\\Andrea Zanetti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andrea Zanetti\\OneDrive\\csharp\\MacNuget.Warehouse\\MacNuget.Warehouse\\MacNuget.Warehouse.Events\\obj\\",
+      "outputPath": "C:\\Users\\Andrea Zanetti\\OneDrive\\csharp\\MacNuget.Warehouse\\MacNuget.Warehouse.Events\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
