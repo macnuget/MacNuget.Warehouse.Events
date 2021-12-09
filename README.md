@@ -5,7 +5,7 @@
 An internal event to update (+) the quantity of the product
 
 ## External Event
-### New Order Event
+### NewOrderEvent
 An external event to update the quantity of the product
 
 ### DeleteProductEvent
