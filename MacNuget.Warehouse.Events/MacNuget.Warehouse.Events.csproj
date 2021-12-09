@@ -4,6 +4,11 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageVersion>0.0.1</PackageVersion>
+    <Title>MacNuget.Warehouse.Events</Title>
+    <PackageProjectUrl>https://github.com/macnuget/MacNuget.Warehouse.Events</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/macnuget/MacNuget.Warehouse.Events</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
